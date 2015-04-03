@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jack-london/white-fang</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-03-27T20:21:24Z</meta>
+		<meta property="dcterms:modified">2015-04-03T00:11:00Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -37,7 +37,7 @@
 		<dc:source>http://www.gutenberg.org/ebooks/910</dc:source>
 		<dc:source>https://archive.org/stream/whitefang1906lond</dc:source>
 		<meta property="se:word-count">72804</meta>
-		<meta property="se:url.wikipedia">https://en.wikipedia.org/wiki/White_Fang</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/White_Fang</meta>
 		<dc:creator id="author">Jack London</dc:creator>
 		<meta property="file-as" refines="#author">London, Jack</meta>
 		<meta property="se:name.person.full-name" refines="#author">John Griffith "Jack" London</meta>
