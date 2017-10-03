@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jack-london/white-fang</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2017-09-27T23:02:28Z</meta>
-		<meta property="se:revision-number">47</meta>
+		<meta property="dcterms:modified">2017-10-03T05:05:13Z</meta>
+		<meta property="se:revision-number">48</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -30,7 +30,7 @@
 		<dc:description id="description">A wild half-wolf survives a harsh existence before finding love and domestication in civilization.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;White Fang&lt;/i&gt; is Jack London’s companion novel to &lt;i&gt;&lt;a href="https://standardebooks.org/jack-london/the-call-of-the-wild"&gt;The Call of the Wild&lt;/a&gt;&lt;/i&gt;. In &lt;i&gt;The Call of the Wild&lt;/i&gt; we follow a dog’s journey from domestication to wilderness, but in &lt;i&gt;White Fang&lt;/i&gt; we see the opposite: a wild wolf-dog captured by men and eventually domesticated.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;White Fang&lt;/i&gt; is Jack London’s companion novel to &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild"&gt;The Call of the Wild&lt;/a&gt;&lt;/i&gt;. In &lt;i&gt;The Call of the Wild&lt;/i&gt; we follow a dog’s journey from domestication to wilderness, but in &lt;i&gt;White Fang&lt;/i&gt; we see the opposite: a wild wolf-dog captured by men and eventually domesticated.&lt;/p&gt;
 			&lt;p&gt;White Fang’s journey isn’t an easy one; both the wild and civilization have their share of brutal violence. But he eventually seems happy in a home with a loving family. When read side-by-side with &lt;i&gt;The Call of the Wild&lt;/i&gt;, &lt;i&gt;White Fang&lt;/i&gt; poses an interesting question: is wilderness &lt;em&gt;really&lt;/em&gt; an improvement over civilization? Is there one right way to live?&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
