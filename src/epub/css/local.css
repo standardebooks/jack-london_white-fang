@@ -1,10 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-h2{
-	page-break-after: always;
-}
-
+[epub|type~="part"] > h2,
 section[epub|type~="chapter"]{
 	page-break-after: always;
 }
