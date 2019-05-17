@@ -26,24 +26,25 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">White Fang</dc:title>
 		<meta property="file-as" refines="#title">White Fang</meta>
 		<dc:subject id="subject-1">Wolfdogs -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
 		<dc:subject id="subject-3">Canada, Northern -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/910</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/910</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/910</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2010118665</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85001072</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A wild half-wolf survives a harsh existence before finding love and domestication in civilization.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;White Fang&lt;/i&gt; is Jack London’s companion novel to &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild"&gt;The Call of the Wild&lt;/a&gt;&lt;/i&gt;. In &lt;i&gt;The Call of the Wild&lt;/i&gt; we follow a dog’s journey from domestication to wilderness, but in &lt;i&gt;White Fang&lt;/i&gt; we see the opposite: a wild wolf-dog captured by men and eventually domesticated.&lt;/p&gt;
 			&lt;p&gt;White Fang’s journey isn’t an easy one; both the wild and civilization have their share of brutal violence. But he eventually seems happy in a home with a loving family. When read side-by-side with &lt;i&gt;The Call of the Wild&lt;/i&gt;, &lt;i&gt;White Fang&lt;/i&gt; poses an interesting question: is wilderness &lt;em&gt;really&lt;/em&gt; an improvement over civilization? Is there one right way to live?&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/910</dc:source>
 		<dc:source>https://archive.org/details/whitefang1906lond</dc:source>
