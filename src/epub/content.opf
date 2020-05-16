@@ -42,7 +42,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A wild half-wolf survives a harsh existence before finding love and domestication in civilization.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;White Fang&lt;/i&gt; is Jack London’s companion novel to &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild"&gt;The Call of the Wild&lt;/a&gt;&lt;/i&gt;. In &lt;i&gt;The Call of the Wild&lt;/i&gt; we follow a dog’s journey from domestication to wilderness, but in &lt;i&gt;White Fang&lt;/i&gt; we see the opposite: a wild wolf-dog captured by men and eventually domesticated.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;White Fang&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/jack-london"&gt;Jack London’s&lt;/a&gt; companion novel to &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild"&gt;The Call of the Wild&lt;/a&gt;&lt;/i&gt;. In &lt;i&gt;The Call of the Wild&lt;/i&gt; we follow a dog’s journey from domestication to wilderness, but in &lt;i&gt;White Fang&lt;/i&gt; we see the opposite: a wild wolf-dog captured by men and eventually domesticated.&lt;/p&gt;
 			&lt;p&gt;White Fang’s journey isn’t an easy one; both the wild and civilization have their share of brutal violence. But he eventually seems happy in a home with a loving family. When read side-by-side with &lt;i&gt;The Call of the Wild&lt;/i&gt;, &lt;i&gt;White Fang&lt;/i&gt; poses an interesting question: is wilderness &lt;em&gt;really&lt;/em&gt; an improvement over civilization? Is there one right way to live?&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
