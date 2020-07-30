@@ -3,7 +3,7 @@
 
 [epub|type~="part"] > h2,
 section[epub|type~="chapter"]{
-	page-break-after: always;
+	break-after: page;
 }
 
 span[epub|type~="subtitle"]{
