@@ -5,8 +5,3 @@
 section[epub|type~="chapter"]{
 	break-after: page;
 }
-
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
