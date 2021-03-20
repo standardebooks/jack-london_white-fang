@@ -54,7 +54,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-london_white-fang</meta>
 		<dc:creator id="author">Jack London</dc:creator>
 		<meta property="file-as" refines="#author">London, Jack</meta>
-		<meta property="se:name.person.full-name" refines="#author">John Griffith "Jack" London</meta>
+		<meta property="se:name.person.full-name" refines="#author">John Griffith “Jack” London</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Jack_London</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78086415</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
