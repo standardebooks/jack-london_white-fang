@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/910</dc:source>
 		<dc:source>https://archive.org/details/whitefang1906lond</dc:source>
-		<meta property="se:word-count">72795</meta>
+		<meta property="se:word-count">72082</meta>
 		<meta property="se:reading-ease.flesch">81.22</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/White_Fang</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jack-london_white-fang</meta>
