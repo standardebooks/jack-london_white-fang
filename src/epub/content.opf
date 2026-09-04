@@ -30,9 +30,9 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">White Fang</dc:title>
 		<meta property="file-as" refines="#title">White Fang</meta>
-		<dc:subject id="subject-1">Wolfdogs -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Wolfdogs--Fiction</dc:subject>
 		<dc:subject id="subject-2">Adventure stories</dc:subject>
-		<dc:subject id="subject-3">Canada, Northern -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Canada, Northern--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2010118665</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
